@@ -115,48 +115,6 @@ A personal portfolio website showcasing my projects, technical skills, and exper
 
 <div align="center">
 
-### ⭐ GitHub Statistics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 GitHub Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### ⭐ Thanks for Visiting My GitHub Profile!
 
 *"Turning ideas into interactive, responsive, and user-friendly web experiences."*
