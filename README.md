@@ -1,6 +1,6 @@
 <div align="center">
 
-#I'm Muhammad Zamzari Alfi Syahrin
+# Hi, I'm Muhammad Zamzari Alfi Syahrin
 
 ### Front-End Developer • Web Developer • UI/UX Designer
 
