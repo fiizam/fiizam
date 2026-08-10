@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Muhammad Zamzari Alfi Syahrin
+# Hi , I'm Muhammad Zamzari Alfi Syahrin
 
-### Front-End Developer • Web Developer • UI/UX Designer
+### Full-Stack Developer • Front-End Developer • Web Developer • UI/UX Designer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Front-End+Developer;Web+Developer;UI%2FUX+Designer;Computer+Science+Graduate;Always+Learning+New+Technologies" />
 
