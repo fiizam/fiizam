@@ -14,7 +14,7 @@
 
 ---
 
-# 🙋 About Me
+# About Me
 
 - 🎓 Bachelor of Computer Science
 - 💻 Passionate about Front-End & Web Development
@@ -25,7 +25,7 @@
 
 ---
 
-# 🌐 Connect with Me
+# Connect with Me
 
 <p align="center">
 
@@ -45,7 +45,7 @@
 
 ---
 
-# 💻 Languages & Tools
+# Languages & Tools
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🥗 Nutrilogic
 
@@ -115,7 +115,7 @@ A personal portfolio website showcasing my projects, technical skills, and exper
 
 <div align="center">
 
-### ⭐ Thanks for Visiting My GitHub Profile!
+### Thanks for Visiting My GitHub Profile!
 
 *"Turning ideas into interactive, responsive, and user-friendly web experiences."*
 
