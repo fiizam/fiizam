@@ -1,122 +1,130 @@
 <div align="center">
 
-# Hi , I'm Muhammad Zamzari Alfi Syahrin
+# Muhammad Zamzari Alfi Syahrin
 
-### Full-Stack Developer • Front-End Developer • Web Developer • UI/UX Designer
+### Front-End Developer · Web Developer · UI/UX Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Front-End+Developer;Web+Developer;UI%2FUX+Designer;Computer+Science+Graduate;Always+Learning+New+Technologies" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-# About Me
-
-- 🎓 Bachelor of Computer Science
-- 💻 Passionate about Front-End & Web Development
-- 🎨 Interested in UI/UX Design and User Experience
-- 🌐 Experienced in building responsive and modern websites
-- 🚀 Always learning new technologies and best practices
-- 📚 Currently exploring Astro, React Ecosystem, AI Integration, and Modern Web Development
-
----
-
-# Connect with Me
-
-<p align="center">
-
-<a href="mailto:zmzarialfi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-zamzari-alfi" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+<p>
+  Building modern, responsive, and intuitive digital experiences.
 </p>
 
----
-
-# Languages & Tools
-
-<div align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<a href="https://zmzarialfi.my.id/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:zmzarialfi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/fiizam">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
+<br /><br />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</a>
-
-<a href="https://laravel.com/" target="_blank">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=23&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Crafting+clean+and+responsive+web+experiences;Turning+ideas+into+useful+digital+products;Always+learning%2C+always+building."
+  alt="Typing SVG"
+/>
 
 </div>
 
 ---
 
-# Featured Projects
+## About Me
 
-## 🥗 Nutrilogic
+I am a Computer Science graduate from **Universitas Pakuan** with a strong interest in front-end development, web development, and UI/UX design.
 
-A web-based diet recommendation system utilizing **Constraint Satisfaction Problem (CSP)** and **Greedy Algorithm** to generate personalized meal plans based on users' nutritional requirements.
+I enjoy building websites that are not only visually polished, but also responsive, accessible, and comfortable to use across different devices. Currently, I am focused on modern web development, smooth interface interactions, and AI-powered web integrations.
 
----
-
-## 🚢 Shipping Company Website
-
-A modern and responsive company profile website built with **Astro**, **Tailwind CSS**, and **GSAP**, featuring smooth animations and optimized performance.
-
----
-
-## 💌 Digital Invitation Website
-
-An elegant digital invitation platform with interactive animations, responsive layouts, and customizable themes for special occasions.
+- Based in Indonesia
+- Open to collaboration and professional opportunities
+- Interested in Front-End Development, UI/UX, and AI Integration
+- Currently exploring Next.js, Astro, Tailwind CSS, and modern web animation
 
 ---
 
-## 💼 Personal Portfolio
-
-A personal portfolio website showcasing my projects, technical skills, and experience with a clean, modern, and responsive design.
-
----
+## Tech Stack
 
 <div align="center">
 
-### Thanks for Visiting My GitHub Profile!
-
-*"Turning ideas into interactive, responsive, and user-friendly web experiences."*
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,nodejs,laravel,python,figma,git,github&perline=7" alt="Tech Stack" />
 
 </div>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>NutriLogic</h3>
+      <p>
+        A web-based personalized nutrition planning system that helps users calculate their needs and receive meal recommendations based on Indonesian food data.
+      </p>
+      <p>
+        <strong>Stack:</strong> Next.js, JavaScript, Tailwind CSS, AI Integration
+      </p>
+      <a href="https://nutrilogic-delta.vercel.app/">
+        <img src="https://img.shields.io/badge/View_Project-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="View NutriLogic" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Personal Portfolio</h3>
+      <p>
+        A personal portfolio website showcasing selected projects, technical skills, professional background, and creative web development work.
+      </p>
+      <p>
+        <strong>Stack:</strong> Modern Front-End, Responsive Design, UI/UX
+      </p>
+      <a href="https://zmzarialfi.my.id/">
+        <img src="https://img.shields.io/badge/Visit_Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Digital Village Dashboard</h3>
+      <p>
+        A dashboard concept for presenting village information, services, and data in a clearer and more accessible digital interface.
+      </p>
+      <p>
+        <strong>Focus:</strong> Dashboard UI, Information Architecture, Responsive Layout
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Shipping Company Profile</h3>
+      <p>
+        A modern company profile website concept for a shipping business, designed with a clean visual system and smooth user experience.
+      </p>
+      <p>
+        <strong>Stack:</strong> Astro, Tailwind CSS, GSAP
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fiizam&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=64748B&bg_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiizam&layout=compact&hide_border=true&title_color=2563EB&text_color=64748B&bg_color=FFFFFF" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=fiizam&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=64748B&dates=94A3B8&sideNums=0F172A&currStreakNum=0F172A" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## What I Value
+
+```text
+Clean Interface       → easy to understand and enjoyable to use
+Responsive Design     → works well across desktop and mobile devices
+Thoughtful Details    → design decisions should have a purpose
+Continuous Learning   → always improving through real projects
