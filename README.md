@@ -1,19 +1,12 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:38BDF8&height=220&section=header&text=Muhammad%20Zamzari%20Alfi%20Syahrin&fontSize=35&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=57&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,52:1E40AF,100:38BDF8&height=235&section=header&text=MUHAMMAD%20ZAMZARI%20ALFI&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=FRONT-END%20DEVELOPER%20%2F%20WEB%20DEVELOPER%20%2F%20UI%2FUX%20DESIGNER&descSize=12&descAlignY=59&animation=fadeIn"
   width="100%"
-  alt="Profile Header"
+  alt="Muhammad Zamzari Alfi Syahrin profile header"
 />
 
 <br />
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=22&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Designing+digital+experiences+that+feel+natural.;Building+clean%2C+responsive%2C+and+useful+websites.;Always+learning%2C+always+creating."
-  alt="Animated Introduction"
-/>
-
-<br /><br />
 
 <a href="https://zmzarialfi.my.id/">
   <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -25,26 +18,33 @@
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<br /><br />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&duration=3400&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Building+clean%2C+responsive+web+experiences.;Turning+ideas+into+useful+digital+products.;Learning%2C+creating%2C+and+improving+every+day."
+  alt="Animated profile introduction"
+/>
+
 </div>
 
 <br />
 
-## `01` — About Me
+## `/ about-me`
 
-```ts
-const alfi = {
+```js
+const profile = {
   name: "Muhammad Zamzari Alfi Syahrin",
-  role: [
+  roles: [
     "Front-End Developer",
     "Web Developer",
-    "UI/UX Designer",
+    "UI/UX Designer"
   ],
   education: "Bachelor of Computer Science — Universitas Pakuan",
   location: "Indonesia",
-  currentlyExploring: [
+  focus: [
+    "Responsive Web Design",
+    "Smooth User Interaction",
     "Modern Web Development",
-    "UI Motion & Interaction",
-    "AI Integration",
-  ],
-  portfolio: "https://zmzarialfi.my.id/",
+    "AI Integration"
+  ]
 };
