@@ -25,7 +25,7 @@
 
 ## About Me
 
-Computer Science graduate from **Universitas Pakuan** with an interest in building modern, responsive, and user-focused web experiences.
+Computer Science graduate with an interest in building modern, responsive, and user-focused web experiences.
 
 I focus on clean interfaces, thoughtful interactions, and digital products that are useful across different devices.
 
