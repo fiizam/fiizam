@@ -8,23 +8,30 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=D4AF6A&center=true&vCenter=true&width=720&lines=Crafting+refined+digital+experiences;Designing+clean+responsive+interfaces;Building+purposeful+products" alt="Typing SVG" />
 </a>
 
-<div style="margin: 26px 0 18px 0;">
-  <div style="display: inline-block; background: rgba(17, 24, 39, 0.8); border: 1px solid rgba(212, 175, 106, 0.2); border-radius: 20px; padding: 18px 22px; box-shadow: 0 18px 48px rgba(0,0,0,0.18);">
-    <div style="font-size: 13px; letter-spacing: 1.6px; text-transform: uppercase; color: #D4AF6A; font-weight: 700; margin-bottom: 12px;">Connect</div>
-    <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
+---
+
+<div align="center" style="margin: 26px 0 18px 0;">
+  <div style="display: inline-block; width: min(640px, 92vw); background: linear-gradient(180deg, rgba(15, 23, 42, 0.96) 0%, rgba(12, 18, 28, 0.98) 100%); border: 1px solid rgba(148, 163, 184, 0.18); border-radius: 18px; box-shadow: 0 18px 44px rgba(2, 6, 23, 0.38); padding: 18px 18px 20px;">
+    <div style="text-align: center; margin-bottom: 14px;">
+      <span style="color: #F8FAFC; font-size: 15px; font-weight: 700; letter-spacing: 0.4px;">Connect</span>
+    </div>
+
+    <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
       <a href="https://github.com/fiizam" style="text-decoration: none;">
-        <div style="display: inline-flex; align-items: center; justify-content: center; min-width: 132px; background: linear-gradient(135deg, #0f172a 0%, #111827 100%); border: 1px solid rgba(148, 163, 184, 0.28); border-radius: 12px; padding: 11px 18px; box-shadow: 0 10px 26px rgba(15,23,42,0.15);">
-          <span style="color: #F8FAFC; font-weight: 700; font-size: 13px;">GitHub</span>
+        <div style="display: inline-flex; align-items: center; justify-content: center; min-width: 120px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(17, 24, 39, 0.96) 100%); border: 1px solid rgba(148, 163, 184, 0.24); border-radius: 10px; padding: 9px 14px; box-shadow: inset 0 1px 0 rgba(255,255,255,0.03);">
+          <span style="color: #E2E8F0; font-size: 13px; font-weight: 700;">GitHub</span>
         </div>
       </a>
+
       <a href="mailto:contact@example.com" style="text-decoration: none;">
-        <div style="display: inline-flex; align-items: center; justify-content: center; min-width: 132px; background: linear-gradient(135deg, rgba(212,175,106,0.18) 0%, rgba(126,87,38,0.12) 100%); border: 1px solid rgba(212,175,106,0.35); border-radius: 12px; padding: 11px 18px; box-shadow: 0 10px 26px rgba(212,175,106,0.08);">
-          <span style="color: #F8E7C2; font-weight: 700; font-size: 13px;">Email</span>
+        <div style="display: inline-flex; align-items: center; justify-content: center; min-width: 120px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(17, 24, 39, 0.96) 100%); border: 1px solid rgba(148, 163, 184, 0.24); border-radius: 10px; padding: 9px 14px; box-shadow: inset 0 1px 0 rgba(255,255,255,0.03);">
+          <span style="color: #E2E8F0; font-size: 13px; font-weight: 700;">Email</span>
         </div>
       </a>
+
       <a href="https://linkedin.com/in/zamzari" style="text-decoration: none;">
-        <div style="display: inline-flex; align-items: center; justify-content: center; min-width: 132px; background: linear-gradient(135deg, rgba(255,255,255,0.07) 0%, rgba(255,255,255,0.02) 100%); border: 1px solid rgba(255,255,255,0.14); border-radius: 12px; padding: 11px 18px; box-shadow: 0 10px 26px rgba(15,23,42,0.12);">
-          <span style="color: #E5E7EB; font-weight: 700; font-size: 13px;">LinkedIn</span>
+        <div style="display: inline-flex; align-items: center; justify-content: center; min-width: 120px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(17, 24, 39, 0.96) 100%); border: 1px solid rgba(148, 163, 184, 0.24); border-radius: 10px; padding: 9px 14px; box-shadow: inset 0 1px 0 rgba(255,255,255,0.03);">
+          <span style="color: #E2E8F0; font-size: 13px; font-weight: 700;">LinkedIn</span>
         </div>
       </a>
     </div>
