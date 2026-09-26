@@ -2,57 +2,51 @@
 
 # Muhammad Zamzari Alfi Syahrin
 
-**Front-End Developer · Web Developer · UI/UX Designer**
+**Front-End Developer • Web Developer • UI/UX Designer**
 
-<br />
+<!-- Animated Typing Effect -->
+<a href="https://github.com/fiizam">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+and+responsive+web+experiences;Focusing+on+thoughtful+interactions;Crafting+user-centric+digital+products" alt="Typing SVG" />
+</a>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&height=32&lines=Building+clean+and+responsive+web+experiences.;Designing+interfaces+that+feel+natural+to+use.;Always+learning%2C+always+creating."
-  alt="Animated introduction"
-/>
-
-<br />
-
-<a href="https://zmzarialfi.my.id/">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:zmzarialfi@gmail.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/fiizam">GitHub</a>
+[Portfolio](#) &nbsp;•&nbsp; [Email](mailto:emailanda@domain.com) &nbsp;•&nbsp; [GitHub](https://github.com/fiizam)
 
 </div>
 
----
+<br>
 
 ## About Me
+<hr>
 
-Computer Science graduate with an interest in building modern, responsive, and user-focused web experiences.
+Computer Science graduate with an interest in building modern, responsive, and user-focused web experiences. I focus on clean interfaces, thoughtful interactions, and digital products that are useful across different devices.
 
-I focus on clean interfaces, thoughtful interactions, and digital products that are useful across different devices.
-
----
+<br>
 
 ## Tech Stack
+<hr>
 
 <div align="center">
 
-**Front-End**
+### Front-End
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,astro,tailwind" alt="Front-End Technologies" />
+</a>
 
-<br /><br />
+<br>
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,astro,tailwind&theme=dark"
-  alt="HTML, CSS, JavaScript, React, Next.js, Astro, Tailwind CSS"
-/>
+### Tools & Supporting Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,figma,git,github,vscode" alt="Tools and Supporting Tech" />
+</a>
 
-<br /><br />
+</div>
 
-**Tools & Supporting Technologies**
+<br>
 
-<br /><br />
+## GitHub Analytics
+<hr>
 
-<img
-  src="https://skillicons.dev/icons?i=nodejs,laravel,python,figma,git,github,vscode&theme=dark"
-  alt="Node.js, Laravel, Python, Figma, Git, GitHub, VS Code"
-/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiizam&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="fiizam's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiizam&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="fiizam's Streak" />
 </div>
