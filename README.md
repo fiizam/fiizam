@@ -3,7 +3,7 @@
 <hr>
 
 <div data-importer="socials" align="left">
-  <p>💬 <b>Let's connect and build something awesome together! Reach out via Email, Instagram, or LinkedIn:</b></p>
+  <p>💬 <b>Let's connect and build something awesome together!</b></p>
   <a href="mailto:zmzarialfi@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
