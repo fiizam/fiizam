@@ -9,8 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/c5/30/66/c53066450174f6edeb4512864a406aec.gif"  />
-
+<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"/>
 ###
 
 <div data-importer="techs" align="center">
@@ -54,5 +53,7 @@
 ###
 
 <br clear="both">
-<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"/>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/fiizam/fiizam/snake-output/snake.svg" alt="Snake animation" />
+
 ###
