@@ -54,6 +54,5 @@
 ###
 
 <br clear="both">
-
-<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"  />
+<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"/>
 ###
