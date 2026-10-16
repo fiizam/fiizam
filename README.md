@@ -10,6 +10,7 @@
 ###
 
 <img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"/>
+
 ###
 
 <div data-importer="techs" align="center">
