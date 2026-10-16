@@ -1,4 +1,10 @@
-<h4 data-importer="text" align="left">Hi, I'm a Web Developer!<br><br>💻 Currently focusing on Front-End & Full-Stack Development.<br><br>🚀 Tech stack: Next.js, Astro, TypeScript, and JavaScript.<br><br>🌐 Check out my portfolio: zmzarialfi.my.id</h4>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Zamzari+Alfi!" alt="Typing SVG" />
+</a>
+
+<hr>
+
+<h4 data-importer="text" align="left"><br>💻 Currently focusing on Front-End & Full-Stack Development.<br><br>🚀 Tech stack: Next.js, Astro, TypeScript, and JavaScript.<br><br>🌐 Check out my portfolio: zmzarialfi.my.id</h4>
 
 <hr>
 
