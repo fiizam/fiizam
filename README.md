@@ -55,6 +55,5 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/fiizam/fiizam/snake-output/snake.svg" alt="Snake animation" />
-
+<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"  />
 ###
