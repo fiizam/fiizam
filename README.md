@@ -27,20 +27,27 @@
   <h3><b>🛠️ Tech Stack & Tools</b></h3>
 
   <p><b>Languages</b><br>
-    <img src="https://skillicons.dev/icons?i=js,ts,py" alt="Languages" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+    <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
   </p>
 
   <p><b>Frontend</b><br>
-    <!-- Astro sudah ditambahkan di sini (astro) -->
-    <img src="https://skillicons.dev/icons?i=html,css,react,next,vue,astro" alt="Frontend" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+    <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+    <a href="https://nextjs.org/docs" target="_blank"><img src="https://skillicons.dev/icons?i=next" alt="Next.js" /></a>
+    <a href="https://vuejs.org/guide/introduction.html" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
+    <a href="https://docs.astro.build/" target="_blank"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
   </p>
 
   <p><b>Backend & Database</b><br>
-    <img src="https://skillicons.dev/icons?i=laravel,postgres" alt="Backend & Database" />
+    <a href="https://laravel.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
+    <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   </p>
 
   <p><b>Tools</b><br>
-    <img src="https://skillicons.dev/icons?i=docker" alt="Tools" />
+    <a href="https://docs.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   </p>
 </div>
 
