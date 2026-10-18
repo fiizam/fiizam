@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Zamzari+Alfi!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Zamzari+Alfi!&v=1" alt="Typing SVG" />
 </a>
 
 <hr>
@@ -53,10 +53,10 @@
 <img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"/>
 
 <div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=fiizam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/fiizam/fiizam/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=fiizam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=1" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/fiizam/fiizam/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&v=1" height="150" alt="languages graph" />
 </div>
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/fiizam/fiizam/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/fiizam/fiizam/snake-output/snake.svg?v=1" alt="Snake animation" />
