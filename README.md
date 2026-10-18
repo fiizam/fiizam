@@ -4,7 +4,7 @@
 
 <hr>
 
-<h3 data-importer="text" align="left">💻 Currently focusing on Front-End & Full-Stack Development.<br><br>🚀 Tech stack: Next.js, Astro, TypeScript, and JavaScript.<br><br>🌐 Check out my portfolio: <a href="https://www.zmzarialfi.my.id" target="_blank">zmzarialfi.my.id</a></h3>
+<h3 data-importer="text" align="left">💻 Front-End & Full-Stack Developer passionate about building user-friendly web applications.<br><br>🚀 Tech stack: Next.js, Astro, TypeScript, and JavaScript.<br><br>🌐 Check out my portfolio: <a href="https://www.zmzarialfi.my.id" target="_blank">zmzarialfi.my.id</a></h3>
 
 <hr>
 
@@ -23,29 +23,25 @@
 
 <hr>
 
-<div data-importer="techs" align="center">
-  <h3><b>Tech Stack & Tools</b></h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+<div data-importer="techs" align="left">
+  <h3><b>🛠️ Tech Stack & Tools</b></h3>
+
+  <p><b>Languages</b><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,py" alt="Languages" />
+  </p>
+
+  <p><b>Frontend</b><br>
+    <!-- Astro sudah ditambahkan di sini (astro) -->
+    <img src="https://skillicons.dev/icons?i=html,css,react,next,vue,astro" alt="Frontend" />
+  </p>
+
+  <p><b>Backend & Database</b><br>
+    <img src="https://skillicons.dev/icons?i=laravel,postgres" alt="Backend & Database" />
+  </p>
+
+  <p><b>Tools</b><br>
+    <img src="https://skillicons.dev/icons?i=docker" alt="Tools" />
+  </p>
 </div>
 
 <hr>
