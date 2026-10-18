@@ -59,4 +59,14 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/fiizam/fiizam/snake-output/snake.svg?v=2" alt="Snake animation" />
+<!-- Tambahan Grafik Kontribusi (Statis) -->
+<div align="center">
+  <h3><b>Contribution Calendar</b></h3>
+  <img src="https://ghchart.rshah.org/219138/fiizam" alt="Fiizam's Github Chart" />
+</div>
+
+<br>
+
+<div align="center">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/fiizam/fiizam/snake-output/snake.svg?v=2" alt="Snake animation" />
+</div>
