@@ -38,7 +38,7 @@
 
 <hr>
 
-<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"/>
+<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"/> <br>
 
 <div data-importer="stats" align="left">
   <img src="https://streak-stats.demolab.com?user=fiizam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=2" height="150" alt="streak graph" /> <br>
