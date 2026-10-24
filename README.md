@@ -4,7 +4,7 @@
 
 <hr>
 
-<h4 data-importer="text" align="left">💻 Front-End & Full-Stack Developer passionate about building user-friendly web applications.<br><br>🌐 Check out my portfolio: <a href="https://www.zmzarialfi.my.id" target="_blank">zmzarialfi.my.id</a></h4>
+<h3 data-importer="text" align="left">💻 Front-End & Full-Stack Developer passionate about building user-friendly web applications.<br><br>🌐 Check out my portfolio: <a href="https://www.zmzarialfi.my.id" target="_blank">zmzarialfi.my.id</a></h3>
 
 <hr>
 
