@@ -9,7 +9,7 @@
 <hr>
 
 <div data-importer="socials" align="left">
-  <h3>💬 <b>Let's connect and build something awesome together!</b></h3>
+  <h3><b>Let's connect and build something awesome together!</b></h3>
   <a href="mailto:zmzarialfi@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="gmail logo" />
   </a>
@@ -24,7 +24,7 @@
 <hr>
 
 <div data-importer="techs" align="left">
-  <h3><b>🛠️ Tech Stack & Tools</b></h3>
+  <h3><b>Tech Stack & Tools</b></h3>
   <p>
     <a href="https://nextjs.org/docs" target="_blank"><img src="https://skillicons.dev/icons?i=next" alt="Next.js" /></a>
     <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
