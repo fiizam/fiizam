@@ -42,11 +42,5 @@
 
 <div data-importer="stats" align="left">
   <img src="https://streak-stats.demolab.com?user=fiizam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=2" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fiizam&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/fiizam/fiizam/languages-output/languages.svg?v=1" height="150" alt="languages graph" />
 </div>
-
-<!-- <br clear="both">
-
-<div align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/fiizam/fiizam/snake-output/snake.svg?v=2" alt="Snake animation" />
-</div> -->
