@@ -1,46 +1,102 @@
+
+<!-- HEADER -->
+
+<table>
+  <tr>
+    <td width="75%" valign="middle">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Zamzari+Alfi!&v=2" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=34&duration=3000&pause=1500&color=36BCF7&vCenter=true&width=570&height=75&lines=Hi%2C+I'm+Zamzari+Alfi!"
+    alt="Hi, I'm Zamzari Alfi!"
+  />
 </a>
 
-<hr>
+**Front-End & Full-Stack Developer**
 
-<h4 data-importer="text" align="left">💻 Front-End & Full-Stack Developer passionate about building user-friendly web applications.<br><br>🌐 Check out my portfolio: <a href="https://www.zmzarialfi.my.id" target="_blank">zmzarialfi.my.id</a></h4>
+I develop web and mobile applications, working with interfaces, backend systems, and data processing.
 
-<hr>
+Based in Indonesia.
 
-<div data-importer="socials" align="left">
-  <h3><b>Let's connect and build something awesome together!</b></h3>
-  <a href="mailto:zmzarialfi@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail logo" />
+<a href="https://www.zmzarialfi.my.id">Portfolio</a> &nbsp; / &nbsp;
+<a href="mailto:zmzarialfi@gmail.com">Email</a> &nbsp; / &nbsp;
+<a href="https://www.instagram.com/zmzarialfi/">Instagram</a>
+
+  </td>
+  <td width="25%" align="center" valign="middle">
+    <img src="./funny.gif" width="165" alt="Animated character" />
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- PROJECTS -->
+
+### Selected Work
+
+**01 / ScanDocs**
+
+An OCR-based Android application developed for logistics document processing at PT Indocement. Scanned document data is stored in a database and managed through a Laravel admin dashboard.
+
+<sub>Flutter · Dart · Laravel · MySQL · Google ML Kit</sub>
+
+<br><br>
+
+**02 / NutriLogic**
+
+A web-based personalized diet optimization system using a greedy algorithm with constraint satisfaction, supported by Indonesian food composition data (TKPI).
+
+<sub>Web Development · Greedy Algorithm · Constraint Satisfaction</sub>
+
+<br>
+
+<!-- TECHNOLOGIES -->
+
+### Tech Stack & Tools
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=js,react,nextjs,python,php,laravel,mysql,flutter,dart,git,docker&perline=11"
+    alt="Tech Stack"
+  />
+</p>
+
+<sub>Frontend development · Backend development · Mobile applications · Databases</sub>
+
+<br><br>
+
+<!-- GITHUB STATS -->
+
+### GitHub Activity
+
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fiizam&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiizam&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
+    height="165"
+  />
+</p>
+
+<br>
+
+<!-- CONTACT -->
+
+### Elsewhere
+
+<p>
+  <a href="mailto:zmzarialfi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/zmzarialfi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo" />
+  &nbsp;
+  <a href="https://www.instagram.com/zmzarialfi/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="35" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-zamzari-alfi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo" />
-  </a>
-</div>
-
-<hr>
-
-<div data-importer="techs" align="left">
-  <h3><b>Tech Stack & Tools</b></h3>
-  <p>
-    <a href="https://nextjs.org/docs" target="_blank"><img src="https://skillicons.dev/icons?i=next" alt="Next.js" /></a>
-    <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-    <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
-    <a href="https://docs.astro.build/" target="_blank"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
-    <a href="https://laravel.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
-    <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-    <a href="https://docs.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  </p>
-</div>
-
-<hr>
-
-<img data-importer="image" align="right" height="150" src="https://raw.githubusercontent.com/fiizam/fiizam/main/funny.gif"/> <br>
-
-<div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=fiizam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&v=2" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/fiizam/fiizam/languages-output/languages.svg?v=1" height="150" alt="languages graph" />
-</div>
+  &nbsp;
+  <a href="https://www.zmzarialfi.my.id">Portfolio</a>
+</p>
